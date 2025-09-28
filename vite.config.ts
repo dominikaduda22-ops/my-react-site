@@ -21,6 +21,6 @@ export default defineConfig(({ mode }) => {
       },
     },
     // 👇 IMPORTANT for GitHub Pages
-    base: '/my-react-site/',
+    base: '/',
   }
 })
