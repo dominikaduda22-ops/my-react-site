@@ -21,7 +21,7 @@ const AboutPage: React.FC = () => {
           </div>
           <div className="md:col-span-2">
             <img 
-              src="Public\owner.png" 
+              src=".\Public\owner.png" 
               alt="Walid Anas, Founder of Walidos LLC" 
               className="rounded-lg shadow-2xl w-full h-auto object-cover"
             />
