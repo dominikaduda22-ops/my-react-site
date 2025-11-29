@@ -12,11 +12,12 @@ const AboutPage: React.FC = () => {
           <div className="md:col-span-3">
             <h2 className="text-3xl font-montserrat font-bold text-navy mb-4">Founder Story</h2>
             <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
-              <p>My name is Walid Anas. At 24, I’m proud to lead Walidos LLC, a U.S.registered company with its heart in two places: our official base in Richmond, Kentucky, and my hometown of Agdal Riyad in Rabat, Morocco, where I manage our operations. Growing up, I saw how small businesses struggled to be seen online. That inspired me to master digital marketing not just as a skill, but as a tool for empowerment.</p>
-              <p>After establishing Walidos LLC as a registered business in the U.S. in 2024, I built our agency on a simple mission: <strong className="font-semibold text-navy">to offer B2C brands honest, high-impact marketing without the fluff, combining a global perspective with American business standards.</strong> We don’t promise overnight miracles, we build sustainable visibility through strategy, testing, and transparency.</p>
-              <p><strong>WALIDOS LLC IS OWNED AND OPERATED BY WALID ANAS</strong></p>
-              <p><strong>212 N. 2nd St. STE 100, Richmond, KY 40475</strong></p>
-              <p><strong>+212 706063437</strong></p>
+              <p>My name is <b> Iesha Long </b>, and at 20 years old, I'm proud to lead Walidos LLC — a U.S.-registered digital marketing company operating with a strong foundation in Cherokee, Alabama. From here, I manage our day-to-day operations, client relationships, and the strategic direction of our agency.</p>
+              <p>Growing up, I watched small businesses struggle to compete online despite having great products and passionate owners. That sparked my commitment to mastering digital marketing, not just as a profession, but as a way to help business owners gain the visibility and growth they deserve.</p>
+				<p> After establishing Walidos LLC in the U.S., I built this agency around one mission: to provide honest, high-impact marketing for B2C brands using data-driven strategy, transparent communication, and modern American business standards. We don’t promise overnight miracles — we deliver sustainable, measurable results through testing, analytics, and real strategy. </p>
+              <p><strong>WALIDOS LLC IS OWNED AND OPERATED BY IESHA LONG</strong></p>
+              <p><strong>1590 Plantview Drive, Cherokee, Alabama 35616</strong></p>
+              <p><strong>+1-256-560-5902</strong></p>
             </div>
           </div>
 
