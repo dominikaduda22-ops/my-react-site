@@ -24,11 +24,11 @@ const AboutPage: React.FC = () => {
           <div className="md:col-span-2">
             <img
   		src={`${import.meta.env.BASE_URL}owner.png`}   // pulls from public/ and respects subpath or root
-  		alt="Walid Anas, Founder of Walidos LLC"
+  		alt="Iesha Long, Founder of Walidos LLC"
   		className="rounded-lg shadow-2xl w-full h-auto object-cover"
 	/>
 
-            <p className="text-center mt-2 text-sm text-gray-600">Walid Anas, Founder & CEO</p>
+            <p className="text-center mt-2 text-sm text-gray-600">Iesha Longs, Founder & CEO</p>
           </div>
         </div>
 
